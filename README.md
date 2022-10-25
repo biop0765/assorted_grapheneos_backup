@@ -8,7 +8,7 @@ go install github.com/github-release/github-release@latest
 ```
 
 - Create a token with Repository permissions with  Read and Write access to code
-- https://github.com/settings/personal-access-tokens
+- https://github.com/settings/apps
 
 ```
 export GITHUB_TOKEN=github_pat_11
