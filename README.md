@@ -13,7 +13,11 @@ go install github.com/github-release/github-release@latest
 export GITHUB_TOKEN=github_pat_11
 ```
 
-- Create a draft for release
+- Create a tag for release
+
+```
+github-release release --user biop0765 --repo assorted_grapheneos_backup --tag flame
+```
 
 - Run command
 
